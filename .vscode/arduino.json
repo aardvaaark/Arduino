@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "COM5",
-    "sketch": "starterkit-4\\starterkit-4.ino"
+    "sketch": "starterKit\\starterkit-4\\starterkit-4.ino"
 }
