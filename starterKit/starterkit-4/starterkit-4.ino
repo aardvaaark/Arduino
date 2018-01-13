@@ -52,7 +52,7 @@ void loop() {
 //  analogWrite(blueLEDPin, blueValue-180);
 
   analogWrite(redLEDPin, 0); //red
-  analogWrite(greenLEDPin, 255);
-  analogWrite(blueLEDPin, 0);
+  analogWrite(greenLEDPin, 5);
+  analogWrite(blueLEDPin, 255);
   
 }
